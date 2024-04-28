@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=600&height=100&lines=Ivan+Mao;Master+Student+%7C+Software+Engineer;AI+%7C+Software+%7C+Soccer+%7C+Finance" alt="Typing SVG" /></a>
+<a href="https://github.com/IvanMao714"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=600&height=100&lines=Ivan+Mao;Master+Student+%7C+Software+Engineer;AI+%7C+Software+%7C+Soccer+%7C+Finance" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://https://ivanmao714.github.io/">
