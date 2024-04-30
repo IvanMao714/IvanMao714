@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center"> -->
 <a href="https://github.com/IvanMao714"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=600&height=100&lines=Ivan+Mao;Master+Student+%7C+Software+Engineer;AI+%7C+Software+%7C+Soccer+%7C+Finance" alt="Typing SVG" /></a>
 <br/>
 
@@ -26,13 +26,7 @@
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
-
-<br/> 
-
-<!-- <a href="https://github.com/drkostas">
-    <img src="https://github-readme-stats.vercel.app/api?username=drkostas&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
-
+<!-- <br/>  -->
 <a href="https://github.com/IvanMao714">
     <img src="https://github-stats-alpha.vercel.app/api?username=ivanmao714">
 </a>
@@ -45,12 +39,80 @@
 
 * 💻 Intern in 2023 @ [JD.com](https://campus.jd.com/#/talentProject?tabKey=4).
 
+
+### 🛠 Tools & Technology Skill
+
+<table>
+    <tr><th>Language</th></tr>
+        <tr><td>
+            <table>
+                <tr>
+                <td><img alt="Python" src="https://img.shields.io/badge/Python-black?logo=Python"/><img alt="Dart" src="https://img.shields.io/badge/Dart-black?logo=dart&logoColor=%230175C2
+                "/><img alt="CSS" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6"/>
+                <img alt="Java" src="https://img.shields.io/badge/Java-red?logoColor=%231572B6
+                "/><img alt="HTML" src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=%23E34F26
+                "/><img alt="Javascript" src="https://img.shields.io/badge/Javascript-black?logo=javascript&logoColor=%23F7DF1E
+                "/>
+                </td>
+                </tr>
+            </table>
+        </td></tr>
+    <tr>
+        <th>Framwork</th>
+        <tr><td>
+            <table>
+                <tr>
+                <td>AI</td>
+                <td><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-black?logo=scikitlearn&logoColor=%23F7931E
+                "/><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-black?logo=pytorch&logoColor=%23EE4C2C
+                "/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-black?logo=jupyter&logoColor=%23F37626
+                "/>
+                </td>
+                </tr>
+                <tr>
+                <td>Backend</td>
+                <td><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-black?logo=springboot&logoColor=%236DB33F
+                "/><img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=flask
+                "/>
+                </td>
+                </tr>
+                <tr>
+                <td>Frontend</td>
+                <td><img alt="Vue" src="https://img.shields.io/badge/Vue-black?logo=vuedotjs&logoColor=vuedotjs
+                "/><img alt="Flutter" src="https://img.shields.io/badge/Flutter-black?logo=flutter&logoColor=%2302569B
+                "/>
+                </td>
+                </tr>
+                <tr>
+                <td>CICD</td>
+                <td><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F05032
+                "/><img alt="Github" src="https://img.shields.io/badge/Github-black?logo=github
+                "/><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes
+                "/><img alt="GitLab" src="https://img.shields.io/badge/Gitlab-black?logo=gitlab
+                "/><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?logo=jenkins
+                "/>
+                </td>
+                </tr>
+                <tr>
+                <td>Note</td>
+                <td><img alt="Gitbook" src="https://img.shields.io/badge/Gitbook-black?logo=gitbook
+                "/><img alt="Docsify" src="https://img.shields.io/badge/Docsify-black?logo=docsify
+                "/>
+                </td>
+                </tr>
+            </table>
+        </td></tr>
+    </tr>
+</table>
+
+
+
 <!-- ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
-<tr><td> -->
+<tr><td> 
 
-<!-- | Title                                                                            | Stars                                                                                                                                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Title                                                                            | Stars                                                                                                                                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Minecraft-AI](https://github.com/drkostas/Minecraft-AI)                         | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Minecraft-AI?style=flat-square&labelColor=black"/>                 | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)                                                                                                                                                                                                                                                                                                                                         |
 | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/>     | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)                                                                                                                                                                                                                                               |
@@ -112,4 +174,4 @@ Currently Coding & Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
-</details> -->
+</details> --> 
