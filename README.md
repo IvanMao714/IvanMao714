@@ -47,11 +47,11 @@
         <tr><td>
             <table>
                 <tr>
-                <td><img alt="Python" src="https://img.shields.io/badge/Python-black?logo=Python"/><img alt="Dart" src="https://img.shields.io/badge/Dart-black?logo=dart&logoColor=%230175C2
-                "/><img alt="CSS" src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=%231572B6"/>
-                <img alt="Java" src="https://img.shields.io/badge/Java-red?logoColor=%231572B6
-                "/><img alt="HTML" src="https://img.shields.io/badge/HTML-black?logo=html5&logoColor=%23E34F26
-                "/><img alt="Javascript" src="https://img.shields.io/badge/Javascript-black?logo=javascript&logoColor=%23F7DF1E
+                <td><img alt="Python" src="./badge/Python-black.svg"/><img alt="Dart" src="./badge/Dart-black.svg
+                "/><img alt="CSS" src="./badge/CSS-black.svg"/>
+                <img alt="Java" src="./badge/Java-red.svg
+                "/><img alt="HTML" src="./badge/HTML-black.svg
+                "/><img alt="Javascript" src="./badge/Javascript-black.svg
                 "/>
                 </td>
                 </tr>
@@ -63,40 +63,34 @@
             <table>
                 <tr>
                 <td>AI</td>
-                <td><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-black?logo=scikitlearn&logoColor=%23F7931E
-                "/><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-black?logo=pytorch&logoColor=%23EE4C2C
-                "/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-black?logo=jupyter&logoColor=%23F37626
+                <td><img alt="Sklearn" src="./badge/Sklearn-black.svg
+                "/><img alt="Pytorch" src="./badge/Pytorch-black.svg
+                "/><img alt="Jupyter" src="./badge/Jupyter-black.svg
                 "/>
                 </td>
                 </tr>
                 <tr>
                 <td>Backend</td>
-                <td><img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-black?logo=springboot&logoColor=%236DB33F
-                "/><img alt="Flask" src="https://img.shields.io/badge/Flask-black?logo=flask
+                <td><img alt="SpringBoot" src="./badge/SpringBoot-black.svg
+                "/><img alt="Flask" src="./badge/Flask-black.svg
                 "/>
                 </td>
                 </tr>
                 <tr>
                 <td>Frontend</td>
-                <td><img alt="Vue" src="https://img.shields.io/badge/Vue-black?logo=vuedotjs&logoColor=vuedotjs
-                "/><img alt="Flutter" src="https://img.shields.io/badge/Flutter-black?logo=flutter&logoColor=%2302569B
-                "/>
+                <td><img alt="Vue" src="./badge/Vue-black.svg
+                "/><img alt="Flutter" src="./badge/Flutter-black.svg">
                 </td>
                 </tr>
                 <tr>
                 <td>CICD</td>
-                <td><img alt="Git" src="./badge/Git-black.svg"/><img alt="Github" src="https://img.shields.io/badge/Github-black?logo=github
-                "/><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes
-                "/><img alt="GitLab" src="https://img.shields.io/badge/Gitlab-black?logo=gitlab
-                "/><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?logo=jenkins
-                "/>
+                <td><img alt="Git" src="./badge/Git-black.svg"/><img alt="Github" src="./badge/Github-black.svg"/><img alt="Kubernetes" src="./badge/Kubernetes-black.svg"/><img alt="GitLab" src="./badge/Gitlab-black.svg
+                "/><img alt="Jenkins" src="./badge/Jenkins-black.svg"/>
                 </td>
                 </tr>
                 <tr>
                 <td>Note</td>
-                <td><img alt="Gitbook" src="https://img.shields.io/badge/Gitbook-black?logo=gitbook
-                "/><img alt="Docsify" src="https://img.shields.io/badge/Docsify-black?logo=docsify
-                "/>
+                <td><img alt="Gitbook" src="./badge/Gitbook-black.svg"/><img alt="Docsify" src="./badge/Docsify-black.svg"/>
                 </td>
                 </tr>
             </table>
