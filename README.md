@@ -85,8 +85,7 @@
                 </tr>
                 <tr>
                 <td>CICD</td>
-                <td><img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F05032
-                "/><img alt="Github" src="https://img.shields.io/badge/Github-black?logo=github
+                <td><img alt="Git" src="./badge/Git-black.svg"/><img alt="Github" src="https://img.shields.io/badge/Github-black?logo=github
                 "/><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes
                 "/><img alt="GitLab" src="https://img.shields.io/badge/Gitlab-black?logo=gitlab
                 "/><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-black?logo=jenkins
