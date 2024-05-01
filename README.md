@@ -47,12 +47,8 @@
         <tr><td>
             <table>
                 <tr>
-                <td><img alt="Python" src="./badge/Python-black.svg"/><img alt="Dart" src="./badge/Dart-black.svg
-                "/><img alt="CSS" src="./badge/CSS-black.svg"/>
-                <img alt="Java" src="./badge/Java-red.svg
-                "/><img alt="HTML" src="./badge/HTML-black.svg
-                "/><img alt="Javascript" src="./badge/Javascript-black.svg
-                "/>
+                <td><img alt="Python" src="./badge/Python-black.svg"/><img alt="Dart" src="./badge/Dart-black.svg"/><img alt="CSS" src="./badge/CSS-black.svg"/>
+                <img alt="Java" src="./badge/Java-red.svg"/><img alt="HTML" src="./badge/HTML-black.svg"/><img alt="Javascript" src="./badge/Javascript-black.svg"/>
                 </td>
                 </tr>
             </table>
@@ -63,29 +59,22 @@
             <table>
                 <tr>
                 <td>AI</td>
-                <td><img alt="Sklearn" src="./badge/Sklearn-black.svg
-                "/><img alt="Pytorch" src="./badge/Pytorch-black.svg
-                "/><img alt="Jupyter" src="./badge/Jupyter-black.svg
-                "/>
+                <td><img alt="Sklearn" src="./badge/Sklearn-black.svg"/><img alt="Pytorch" src="./badge/Pytorch-black.svg"/><img alt="Jupyter" src="./badge/Jupyter-black.svg"/>
                 </td>
                 </tr>
                 <tr>
                 <td>Backend</td>
-                <td><img alt="SpringBoot" src="./badge/SpringBoot-black.svg
-                "/><img alt="Flask" src="./badge/Flask-black.svg
-                "/>
+                <td><img alt="SpringBoot" src="./badge/SpringBoot-black.svg"/><img alt="Flask" src="./badge/Flask-black.svg"/>
                 </td>
                 </tr>
                 <tr>
                 <td>Frontend</td>
-                <td><img alt="Vue" src="./badge/Vue-black.svg
-                "/><img alt="Flutter" src="./badge/Flutter-black.svg">
+                <td><img alt="Vue" src="./badge/Vue-black.svg"/><img alt="Flutter" src="./badge/Flutter-black.svg">
                 </td>
                 </tr>
                 <tr>
                 <td>CICD</td>
-                <td><img alt="Git" src="./badge/Git-black.svg"/><img alt="Github" src="./badge/Github-black.svg"/><img alt="Kubernetes" src="./badge/Kubernetes-black.svg"/><img alt="GitLab" src="./badge/Gitlab-black.svg
-                "/><img alt="Jenkins" src="./badge/Jenkins-black.svg"/>
+                <td><img alt="Git" src="./badge/Git-black.svg"/><img alt="Github" src="./badge/Github-black.svg"/><img alt="Kubernetes" src="./badge/Kubernetes-black.svg"/><img alt="GitLab" src="./badge/Gitlab-black.svg"/><img alt="Jenkins" src="./badge/Jenkins-black.svg"/>
                 </td>
                 </tr>
                 <tr>
