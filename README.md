@@ -1,11 +1,11 @@
 <!-- <p align="center"> -->
-<a href="https://github.com/IvanMao714"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=600&height=100&lines=Ivan+Mao;Master+Student+%7C+Software+Engineer;AI+%7C+Software+%7C+Soccer+%7C+Finance" alt="Typing SVG" /></a>
+<a href="https://github.com/IvanMao714"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=600&height=100&lines=Ivan+Mao;Graduate+Student+%7C+Software+Engineer;AI+%7C+Software+%7C+Soccer+%7C+Finance" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://https://ivanmao714.github.io/">
     <img src="https://img.shields.io/badge/Web-ivanmao714.github.io-blue?style=flat-square">
 </a>  
-<a href="https:///Resume.pdf">
+<a href="./resume/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-Resume-gree?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/yifan-mao-a87852305/">
@@ -47,14 +47,13 @@
         <tr><td>
             <table>
                 <tr>
-                <td><img alt="Python" src="./badge/Python-black.svg"/><img alt="Dart" src="./badge/Dart-black.svg"/><img alt="CSS" src="./badge/CSS-black.svg"/>
-                <img alt="Java" src="./badge/Java-red.svg"/><img alt="HTML" src="./badge/HTML-black.svg"/><img alt="Javascript" src="./badge/Javascript-black.svg"/>
+                <td><img alt="Python" src="./badge/Python-black.svg"/><img alt="Dart" src="./badge/Dart-black.svg"/><img alt="CSS" src="./badge/CSS-black.svg"/><img alt="Java" src="./badge/Java-red.svg"/><img alt="HTML" src="./badge/HTML-black.svg"/><img alt="Javascript" src="./badge/Javascript-black.svg"/>
                 </td>
                 </tr>
             </table>
         </td></tr>
     <tr>
-        <th>Framwork</th>
+        <th>Framwork & Tools</th>
         <tr><td>
             <table>
                 <tr>
@@ -78,8 +77,13 @@
                 </td>
                 </tr>
                 <tr>
-                <td>Note</td>
+                <td>Docs</td>
                 <td><img alt="Gitbook" src="./badge/Gitbook-black.svg"/><img alt="Docsify" src="./badge/Docsify-black.svg"/>
+                </td>
+                </tr>
+                <tr>
+                <td>Database</td>
+                <td><img alt="Mysql" src="https://img.shields.io/badge/Mysql-black?logo=mysql&logoColor=%234479A1"/><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=MongoDB&logoColor=%2347A248"/>
                 </td>
                 </tr>
             </table>
